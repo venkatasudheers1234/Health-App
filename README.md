@@ -32,6 +32,7 @@ The project integrates several powerful tools and technologies to deliver its fu
 - **Interactive Web Interface**: Built using Streamlit, making it easy to use for non-technical users.
 
 💻 How It Works
+
 User uploads an image: The app allows users to upload an image of their food.
 Image processing: The uploaded image is passed through the Google Gemini Pro Vision API, which analyzes the content of the food items in the image.
 Generative AI generates nutritional information: Based on the image, the app provides a breakdown of each food item, including the number of calories and other nutritional values.
