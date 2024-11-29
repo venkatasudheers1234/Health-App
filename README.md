@@ -1,4 +1,4 @@
-# Nutrition Generative AI Doctor using Gemini AI Pro
+# AI-Powered Nutritional Advisor: Leveraging Gemini AI Pro for Personalized Health Guidance
 
 ## 🚀 Project Overview
 
